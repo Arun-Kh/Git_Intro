@@ -1,0 +1,18 @@
+pwd - print current location
+ls - list items in current location
+cd - change directory
+
+special cd's:
+. - current folder
+.. - parent folder
+~ - home folder
+/ - root
+
+tab - autofills typed words
+
+touch - creates file with given name
+rm - remove file
+rm -r - remove folder
+mkdir - make directory
+
+clear - clear screen
