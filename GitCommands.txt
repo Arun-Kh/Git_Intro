@@ -4,3 +4,10 @@ git add [file/folder name] - start tracking the specified items
 
 git config --[local/global] user.[email/name] "value"
 git commit (fill in message in editor)
+git commit -m "message"
+git log
+
+
+
+git push
+git pull
