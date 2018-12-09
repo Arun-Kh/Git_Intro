@@ -1,3 +1,6 @@
 git init - creates a repo at the current folder
 git status - tells you the current status of your repo
 git add [file/folder name] - start tracking the specified items
+
+git config --[local/global] user.[email/name] "value"
+git commit (fill in message in editor)
